@@ -1,0 +1,1 @@
+Lauching git from terminal 
