@@ -1,1 +1,1 @@
-Running uname in linux
+Running uname command in linux 
