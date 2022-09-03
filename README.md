@@ -1,1 +1,1 @@
-Lauching git from terminal 
+Running uname in linux
